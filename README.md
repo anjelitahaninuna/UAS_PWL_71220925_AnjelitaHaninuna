@@ -1,3 +1,12 @@
+## Anjelita Haninuna 
+## 71220925 
+## link demo web katalong yang public ( di gdrive yang dikumpul private awalnya) 
+https://drive.google.com/drive/u/0/folders/1zWXcT0H1z3H1_xnfBz0pwxN_2UW0Aw-7
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
