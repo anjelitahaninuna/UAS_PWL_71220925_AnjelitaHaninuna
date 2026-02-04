@@ -1,6 +1,7 @@
 ## Anjelita Haninuna 
 ## 71220925 
-## link demo web katalong yang public ( di gdrive yang dikumpul private awalnya) 
+## link demo web katalog yang public ( di gdrive yang dikumpul private awalnya) 
+Tugas Akhir membuat web katalog parfum dari sisi admin dan juga pengunjung 
 https://drive.google.com/drive/u/0/folders/1zWXcT0H1z3H1_xnfBz0pwxN_2UW0Aw-7
 
 
